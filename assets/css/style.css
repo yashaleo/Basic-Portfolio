@@ -1,0 +1,59 @@
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    margin: 0;
+}
+
+.center {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+}
+
+footer {
+    background-color: #666666;
+
+}
+
+h1 {
+    float: left;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    top: 0;
+    margin: 0;
+    padding: 20px;
+
+}
+
+#About {
+    float: right;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    margin: 0;
+    padding: 20px;
+}
+
+#Portfolio {
+    float: right;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    margin: 0;
+    padding: 20px;
+}
+
+#Contact {
+    float: right;
+    padding: 20px;
+    text-align: center;
+    top: 0;
+    margin: 0;
+    padding: 20px;
+}
